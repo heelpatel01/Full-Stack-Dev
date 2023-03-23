@@ -15,7 +15,7 @@ Some Amazing WebSites.<br>
 <hr>
 
 usefull tools:- <br>
-1.Pesticide for Chrome (Extension)
+1.Pesticide for Chrome (Extension) 🌟
 (This extension inserts the Pesticide CSS into the current page, outlining each element to better see placement on the page.
 This extension inserts the Pesticide CSS into the current page, outlining each element to better see placement on the page.):
 https://chrome.google.com/webstore/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi
