@@ -9,7 +9,8 @@ Some Best Resources.
 <hr>
 
 Some Amazing WebSites.<br>
--https://web.archive.org/ (For The Watching All WebSites OLD Looks.) 
+-https://web.archive.org/ (For The Watching All WebSites OLD Looks.) <br>
+-https://www.flaticon.com/ (For The Awesome Icons)-
 
 
 <hr>
