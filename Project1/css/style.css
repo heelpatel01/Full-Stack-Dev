@@ -2,26 +2,33 @@ body{
     margin:0;
     text-align: center;
     font-family: 'Merriweather', serif;
+    
 
 
 
 }
 h1{
-
-    margin-top: 0;
+    font-size: 5.625rem;
+    margin-top: 50px;
     font-family: 'Sacramento', cursive;
+    margin-bottom: 0%;
+    color: #66bfbf;
 
 }
 
 h2{
+    color: #66bfbf;
+    font-size: 2.5rem;
     font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
 }
 
 h3{
     font-family: 'Montserrat', sans-serif;
+    color: #11999E;
 }
 div{
-    background-color: #E4F9F5;
+    /* background-color: #E4F9F5; */
     /* margin-right: 20px;
     margin-left:0cm; */
 
@@ -45,7 +52,7 @@ div{
 
 .pro{
     text-decoration: underline;
-    color: rgb(255, 149, 0);
+    /* color: rgb(255, 149, 0); */
     height: 20px;
 }
 .pro:hover{
@@ -53,23 +60,22 @@ div{
     visibility: hidden;
 }
 
-img{
-  
+.skill-row{
+    width: 50%;
+    /* display: inline-block; */
+    /* margin:auto;     */
+    /* margin-left: auto;
+    margin-right: auto; */
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
 }
 
 .middle-container{
-    background-color: orange;
-    height: 200px;
-    width: 200px;
-
-    /* border:20px; */
     
 }
 
 .bottom-container{
-    background-color: aquamarine;
-    height: 200px;
-    width: 200px;
 }
 
 .bottom-cloud{
@@ -79,8 +85,27 @@ img{
 
 }
 
+
+.skill-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.code-img{
+    width: 25%;
+    float: right;
+    margin-left:30px
+}
+
+
 .top-cloud{
     position: absolute;
     right: 300px;
     top: 50px;
+    
+}
+
+a{
+    color: #11999E;
 }
