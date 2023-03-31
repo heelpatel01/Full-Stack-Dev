@@ -11,8 +11,8 @@ Some Best Resources.
 Some Amazing WebSites.<br>
 -https://web.archive.org/ (For The Watching All WebSites OLD Looks.) <br>
 -https://www.flaticon.com/ (For The Awesome Icons) <br>
--https://giphy.com/ (Animeted Transparent Gifs)
--https://www.codeply.com/ (Online Editor With Huge Numbers of Frameworks,Templets Etc... Very Usefull)
+-https://giphy.com/ (Animeted Transparent Gifs) <br>
+-https://www.codeply.com/ (Online Editor With Huge Numbers of Frameworks,Templets Etc... Very Usefull  (I Used For Bootstrap))
 
 
 <hr>
